@@ -4,6 +4,7 @@
   "description": "Application to track fitness progression",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dhc86/FitnessTracker/issues"
   },
-  "homepage": "https://github.com/dhc86/FitnessTracker#readme"
+  "homepage": "https://github.com/dhc86/FitnessTracker#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
