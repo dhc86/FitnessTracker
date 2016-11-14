@@ -1,0 +1,23 @@
+{
+  "name": "fitnessapp",
+  "version": "1.0.0",
+  "description": "Application to track fitness progression",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhc86/FitnessTracker.git"
+  },
+  "keywords": [
+    "Fitness",
+    "Graphs"
+  ],
+  "author": "DHC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhc86/FitnessTracker/issues"
+  },
+  "homepage": "https://github.com/dhc86/FitnessTracker#readme"
+}
